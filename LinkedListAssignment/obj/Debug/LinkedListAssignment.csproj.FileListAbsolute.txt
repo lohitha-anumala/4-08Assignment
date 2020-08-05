@@ -1,0 +1,14 @@
+E:\cSharp\LinkedListAssignment\bin\Debug\LinkedListAssignment.exe.config
+E:\cSharp\LinkedListAssignment\bin\Debug\LinkedListAssignment.exe
+E:\cSharp\LinkedListAssignment\bin\Debug\LinkedListAssignment.pdb
+E:\cSharp\LinkedListAssignment\obj\Debug\LinkedListAssignment.csprojAssemblyReference.cache
+E:\cSharp\LinkedListAssignment\obj\Debug\LinkedListAssignment.csproj.CoreCompileInputs.cache
+E:\cSharp\LinkedListAssignment\obj\Debug\LinkedListAssignment.exe
+E:\cSharp\LinkedListAssignment\obj\Debug\LinkedListAssignment.pdb
+E:\cSharp\4-08ASs\LinkedListAssignment\bin\Debug\LinkedListAssignment.exe.config
+E:\cSharp\4-08ASs\LinkedListAssignment\bin\Debug\LinkedListAssignment.exe
+E:\cSharp\4-08ASs\LinkedListAssignment\bin\Debug\LinkedListAssignment.pdb
+E:\cSharp\4-08ASs\LinkedListAssignment\obj\Debug\LinkedListAssignment.csprojAssemblyReference.cache
+E:\cSharp\4-08ASs\LinkedListAssignment\obj\Debug\LinkedListAssignment.csproj.CoreCompileInputs.cache
+E:\cSharp\4-08ASs\LinkedListAssignment\obj\Debug\LinkedListAssignment.exe
+E:\cSharp\4-08ASs\LinkedListAssignment\obj\Debug\LinkedListAssignment.pdb
